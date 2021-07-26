@@ -1,5 +1,7 @@
 # todoist-taskwarrior
 
+Forked from [git.webmeisterei.com/webmeisterei/todoist-taskwarrior](https://git.webmeisterei.com/webmeisterei/todoist-taskwarrior).
+
 A tool for syncing Todoist tasks with Taskwarrior.
 
 ## Installation
